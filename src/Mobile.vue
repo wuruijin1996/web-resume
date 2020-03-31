@@ -18,7 +18,7 @@
     },
     data() {
       return {
-        interval: 10,
+        interval: 1,
         currentStyle: '',
         enableHtml: false,
         fullStyle: [
@@ -143,16 +143,16 @@ html{
 技能
 ----
 
-后端开发
+前端开发
 
 技术及语言
 ----
-  - layout           : HTML5, CSS3, LESS, Bootstrap
-  - Javascript       : ES5, ES6, JQuery
-  - MVVM             : Vue.js, Vue-cli
-  - wechat           : 小程序
-  - PHP              : ThinkPHP5(熟悉)
-  - Revision control : SVN, Git
+  - 布局            : HTML5, CSS3, LESS, Bootstrap
+  - Javascript      : ES5, ES6, JQuery
+  - MVVM框架        : Vue.js, Vue-cli
+  - 微信            : 小程序
+  - PHP             : ThinkPHP5(熟悉)
+  - 版本管理        : SVN, Git
 
 工作经历
 ----
@@ -166,7 +166,7 @@ html{
 
 * kincustom
 * 面向海外的B2B and B2C商城, 给用户提供数十种商品模板(包含衣服,裤子,鞋子,日用品等), 供用户进行DIY设计, 出售
-* 用户在进行商品设计时, 支持 2D, 3D预览
+* 用户在进行商品设计时, 支持 2D, 2.5D预览
 * 支持各种主流平台(Shopify, Etsy, Bigcommerce, Woocommerce, Amazon, Squarespace等), 支持CSV以及API一键导入
 * 支持个人店铺创建, 用户可以装修店铺, 上传商品, 一键分享到(FaceBook等平台)
 * 已上线: https://kincustom.com (国外服务器，访问较慢，少数内容要翻墙)
@@ -186,7 +186,7 @@ html{
 ----
 
 * 说了那么多正式的, 最后轻松一下, 省的你们觉得我是个死板的程序狗.
-* 本人, 男, 不弯, 爱游戏, 爱跑步, 更爱妹子, 懒癌晚期患者, 坚信懒才是人类进步的最大动力, 代码洁癖严重, 写代码当然就要整整齐齐!
+* 本人, 男, 不弯, 爱游戏, 爱跑步,  懒癌晚期患者, 坚信懒才是人类进步的最大动力, 代码洁癖严重, 写代码当然就要整整齐齐!
 * 自带设计师技能，有UI基础；
 * 一个颜值3分, 时而抽风神经, 时而一丝不苟, 立志成为业界大牛并且在努力前行着的程序狗的自述.
 
